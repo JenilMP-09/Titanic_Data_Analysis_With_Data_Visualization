@@ -215,8 +215,11 @@ Insights & Conclusions
 
 ## Author
 
-Data Analysis and Visualization Project based on the Titanic dataset.
+**Jenil M. Panchal**   
+(Data Science Enthusiast)
+
+---
 
 ## License
 
-This project is intended for educational and learning purposes.
+This project is licensed under the [MIT License](LICENSE).
